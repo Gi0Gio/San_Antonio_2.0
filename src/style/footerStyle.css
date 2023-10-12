@@ -1,0 +1,16 @@
+.footerContainer{
+    margin-top: 3em;
+}
+
+.lemaImg{
+    background-image: url('../mediaAssets/SanAntonioIcon.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.lema{
+    margin-left: 20px;
+}

@@ -1,0 +1,14 @@
+.activityTitle{
+    color: #4A4F1F;
+    font-size: 5em;
+}
+.activityDesc{
+    color: #4A4F1F;
+    font-size: 2em;
+    margin: 0;
+}
+
+.actCont{
+    margin-top: 200px;
+    margin-bottom: 100px;
+}

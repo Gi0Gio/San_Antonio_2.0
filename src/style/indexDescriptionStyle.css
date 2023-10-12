@@ -1,0 +1,20 @@
+.text-title{
+    line-height: 0;
+    -webkit-text-stroke-width: 1px;
+    color: #7A8334;
+}
+
+.sub-title{
+    color: #4A4F1F;
+}
+
+.text{
+    margin-top: 2.5em;
+}
+
+.button{
+    background-color: #7A8334;
+    border: 0;
+    border-radius: 30px;
+    padding: 10px;
+}

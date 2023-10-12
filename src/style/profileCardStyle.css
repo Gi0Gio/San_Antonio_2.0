@@ -1,0 +1,17 @@
+.cardTitle{
+    color: #7A8334;
+    font-size: 2em;
+}
+
+.cardDesc{
+    color: #4A4F1F;
+    font-size: 1.4em;
+}
+
+.cardImage{
+    width: 200px;
+    border-radius: 50%;
+}
+.contentCard{
+    width: 33.33%;
+}

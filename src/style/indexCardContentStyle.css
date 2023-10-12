@@ -1,0 +1,17 @@
+.contentBox{
+    top: 50%;
+    height: 400px;
+    font-size: 1.2em;
+}
+
+.infoCard{
+    background-color: #7A8334;
+    width: 40%;
+}
+
+.misionVisionCards{
+    background-color: #4A4F1F;
+    width: 35%;
+    margin-top: 2em;
+    height: 90%;
+}

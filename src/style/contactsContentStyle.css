@@ -1,0 +1,24 @@
+.contactContainer{
+    margin-top: 200px;
+}
+
+.descContainer h1{
+    font-size: 4em;
+    color: #4A4F1F;
+    margin-bottom: 40px;
+    -webkit-text-stroke: 2px;
+}
+
+
+.imageContainer{
+    background-image: url(https://github.com/Gi0Gio/ChemChy/blob/main/cerro.jpg?raw=true);
+    background-size: cover;
+    background-position: center;
+    filter: brightness(50%);
+    z-index: 200;
+    width: 33.33%;
+}
+
+.gree{
+    color: #7A8334;
+}

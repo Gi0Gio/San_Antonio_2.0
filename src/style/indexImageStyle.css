@@ -1,8 +1,8 @@
 .bg-content{
-    background-image: url(../mediaAssets/wallpaper_index_bg.png);
+    background-image: url(https://github.com/Gi0Gio/ChemChy/blob/main/wallpaper_index_bg.png?raw=true);
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: 600px;
     filter: brightness(50%);
     z-index: 200;
 }

@@ -4,11 +4,11 @@ export default AppHeader
 function AppHeader(){
     return(
         <>
-            <div className='header w-100 d-flex align-items-center justify-content-evenly'>
-                <div className='headerTitle text-white w-50 p-5'>
+            <div className='header w-100 d-flex align-items-center justify-content-between'>
+                <div className='headerTitle text-white w-30 p-5'>
                     <h1>Ganadería San Antonio</h1>
                 </div>
-                <div className='linkList w-50 p-5 m-0'>
+                <div className='linkList w-70 p-5 m-0'>
                     <ul className="nav nav-underline justify-content-end align-items-center text-white">
                         <li className="nav-item">
                             <a href="#">Inicio</a>
@@ -17,7 +17,7 @@ function AppHeader(){
                             <a href="#">Sobre Nosotros</a>
                         </li>
                         <li className="nav-item">
-                            <a href="#">Contactos</a>
+                            <a href="#">Contáctos</a>
                         </li>
                         
                         <li className="nav-item">

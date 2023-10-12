@@ -1,11 +1,13 @@
-import AppHeader from "../components/appheader"
 import IndexImage from "../components/indexImage"
+import IndexCardContent from "../components/indexCardContent"
+import IndexDescription from "../components/indexDescription"
 
 function Index() {
   return (
     <>
-      <AppHeader />
-      <IndexImage />  
+      <IndexImage />
+      <IndexCardContent />
+      <IndexDescription />
     </>
   )
 }
